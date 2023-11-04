@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/1_am_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1_am_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrehman mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman mughal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdulrehman-mughal-b26623192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman mughal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vampi-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vampi-007" height="30" width="40" /></a>
 <a href="https://instagram.com/1_a.m_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_a.m_2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdulrehmanmugh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulrehmanmugh1" height="30" width="40" /></a>
